@@ -113,11 +113,11 @@ Working on real-world systems through internships:
 
 <div align="center">
 
-[![Stock Exchange Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=stock-exchange-simulator&theme=dark&hide_border=true)](https://github.com/Moksh05/stock-exchange-simulator)
-[![Telemedicine AI Platform](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=telemedicine-ai-platform&theme=dark&hide_border=true)](https://github.com/Moksh05/telemedicine-ai-platform)
+[![Stock Exchange Simulator](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=stock-backend&theme=dark&hide_border=true)](https://github.com/Moksh05/stock-exchange-simulator)
+[![Telemedicine AI Platform](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=curaforesight&theme=dark&hide_border=true)](https://github.com/Moksh05/telemedicine-ai-platform)
 
-[![Worker Queue System](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=worker-queue-system&theme=dark&hide_border=true)](https://github.com/Moksh05/worker-queue-system)
-[![Rate Limiter](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=rate-limiter&theme=dark&hide_border=true)](https://github.com/Moksh05/rate-limiter)
+[![Worker Queue System](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=Safenest&theme=dark&hide_border=true)](https://github.com/Moksh05/worker-queue-system)
+[![Rate Limiter](https://github-readme-stats.vercel.app/api/pin/?username=Moksh05&repo=MedEase&theme=dark&hide_border=true)](https://github.com/Moksh05/rate-limiter)
 
 </div>
 
